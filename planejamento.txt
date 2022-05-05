@@ -1,0 +1,21 @@
+- Homepage
+
+- Autenticacao de usuarios
+    - Email
+    - Username
+    - Senha
+    - Filmes vistos
+    - Editar perfil
+
+- Filme e séries
+    - Thumb
+    - Titulo
+    - Descricao
+    - Categoria
+    - Quantidade de views
+    - Data da criacao
+    - Episódios
+        - Vídeos
+        - Titulo
+
+- Barra de pesquisa
