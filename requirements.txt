@@ -7,12 +7,14 @@ cffi==1.14.6
 charset-normalizer==2.0.4
 cleo==0.8.1
 clikit==0.6.2
+cloudinary==1.29.0
 crashtest==0.3.1
 crispy-bootstrap5==0.6
 cryptography==3.4.8
 distlib==0.3.2
 dj-database-url==0.5.0
 Django==4.0.4
+django-cloudinary-storage==0.3.0
 django-crispy-forms==1.14.0
 docopt==0.6.2
 filelock==3.0.12
@@ -42,6 +44,7 @@ requests==2.26.0
 requests-toolbelt==0.9.1
 SecretStorage==3.3.1
 shellingham==1.4.0
+six==1.16.0
 sqlparse==0.4.2
 tomlkit==0.7.2
 urllib3==1.26.6
